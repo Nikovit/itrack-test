@@ -1,0 +1,32 @@
+[
+  {
+    "city": "Омск",
+    "income": "400000",
+    "costs": "500000",
+    "city residents": "1139897"
+  },
+  {
+    "city": "Новосибирск",
+    "income": "500000",
+    "costs": "400000",
+    "city residents": "1511000"
+  },
+  {
+    "city": "Казань",
+    "income": "700000",
+    "costs": "200000",
+    "city residents": "1169000"
+  },
+  {
+    "city": "Екатеринбург",
+    "income": "800000",
+    "costs": "330000",
+    "city residents": "1387000"
+  },
+  {
+    "city": "Сочи",
+    "income": "650000",
+    "costs": "730000",
+    "city residents": "364171"
+  }
+]
